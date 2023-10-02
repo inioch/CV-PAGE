@@ -1,0 +1,16 @@
+body{
+    min-height: 100vh;
+}
+.page{
+    height: 100vh;
+}
+.d-link{
+    color:white;
+    text-decoration: none;
+}
+.icon{
+    transition: ease 1s;
+}
+.icon:hover{
+    scale: 1.2;
+}
